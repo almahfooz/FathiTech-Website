@@ -1,0 +1,38 @@
+FATHI-TECH SOLUTIONS LIMITED — COMPLETE WEBSITE BACKUP
+Updated: 29 October 2026
+
+OPEN THE WEBSITE ON YOUR COMPUTER
+
+1. Download and extract this ZIP file. On Windows, right-click it and choose Extract All.
+2. Open the FathiTech_Website folder.
+3. Double-click index.html to open the website in your browser.
+4. Keep index.html, styles.css, app.js, and the assets folder together.
+
+The website does not need installation, a database, or a build process. All page images and fonts are included. Internet access is needed only when following external links or sending email.
+
+EDIT THE WEBSITE
+
+index.html contains the page layout, text, contact information, and links.
+styles.css controls colours, type sizes, spacing, and responsive layouts.
+app.js contains service and team details, project descriptions, filters, navigation, and the email enquiry preview.
+assets contains the company logo, banner, photographs, fonts, and the font licence.
+
+UPLOAD OR RESTORE TO A WEB HOST
+
+Upload the contents of FathiTech_Website to your website's root folder, usually public_html or the folder selected by your hosting provider. The index.html file should be directly in that root folder. Upload the entire assets folder as well.
+
+For GitHub Pages, put index.html, styles.css, app.js, and assets directly in the published repository folder. No package installation or build command is needed.
+
+If hosting under a different domain, update the og:url and og:image social-preview URLs in index.html to that domain.
+
+HOW ENQUIRIES WORK
+
+The enquiry form prepares an email for a visitor to review. The visitor then opens their email app to send it, or copies the enquiry into their email service. The website itself does not send or store submissions.
+
+BACKUP CONTENTS
+
+This ZIP contains the complete editable website, all local assets, the original logo embedded in the supplied company profile, these instructions, and a SHA-256 integrity manifest. It does not require a ChatGPT sign-in when opened locally or hosted independently. Hosting-account settings and Git credentials are not part of the website backup.
+
+PRIVATE REVIEW SITE
+
+https://fathitech-modern.almahfooz.chatgpt.site
